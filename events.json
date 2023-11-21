@@ -1,0 +1,431 @@
+[
+  {
+    "index": 0,
+    "event": "created",
+    "time": [
+      2023,
+      11,
+      21,
+      15,
+      57,
+      16,
+      58395
+    ]
+  },
+  {
+    "duration": 8.386355,
+    "colour": "red",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 1,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      2,
+      0,
+      459976
+    ]
+  },
+  {
+    "duration": 4.216058,
+    "colour": "amber",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 2,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      3,
+      0,
+      825655
+    ]
+  },
+  {
+    "duration": 8.7295,
+    "colour": "green",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 3,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      3,
+      33,
+      343092
+    ]
+  },
+  {
+    "duration": 8.648141,
+    "colour": "green",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 4,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      4,
+      42,
+      884981
+    ]
+  },
+  {
+    "duration": 8.659124,
+    "colour": "green",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 5,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      8,
+      28,
+      809253
+    ]
+  },
+  {
+    "duration": 4.144534,
+    "colour": "amber",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 6,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      12,
+      14,
+      967471
+    ]
+  },
+  {
+    "duration": 4.095879,
+    "colour": "amber",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 7,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      13,
+      15,
+      76096
+    ]
+  },
+  {
+    "duration": 8.564027,
+    "colour": "green",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 8,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      14,
+      1,
+      203896
+    ]
+  },
+  {
+    "duration": 8.829779,
+    "colour": "red",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 9,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      15,
+      25,
+      13286
+    ]
+  },
+  {
+    "duration": 8.740535,
+    "colour": "red",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 10,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      16,
+      39,
+      273036
+    ]
+  },
+  {
+    "duration": 4.195808,
+    "colour": "amber",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 11,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      18,
+      55,
+      751035
+    ]
+  },
+  {
+    "duration": 8.953857,
+    "colour": "red",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 12,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      19,
+      28,
+      225012
+    ]
+  },
+  {
+    "duration": 4.097794,
+    "colour": "amber",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 13,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      20,
+      27,
+      80170
+    ]
+  },
+  {
+    "duration": 8.628096,
+    "colour": "green",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 14,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      21,
+      4,
+      324780
+    ]
+  },
+  {
+    "duration": 8.632556,
+    "colour": "green",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 15,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      22,
+      0,
+      206871
+    ]
+  },
+  {
+    "duration": 8.651362,
+    "colour": "green",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 16,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      24,
+      6,
+      849266
+    ]
+  },
+  {
+    "duration": 8.754324,
+    "colour": "green",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 17,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      24,
+      59,
+      955154
+    ]
+  },
+  {
+    "duration": 8.526723,
+    "colour": "green",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 18,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      25,
+      42,
+      349804
+    ]
+  },
+  {
+    "duration": 8.487009,
+    "colour": "red",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 19,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      28,
+      3,
+      177766
+    ]
+  },
+  {
+    "duration": 8.646433,
+    "colour": "green",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 20,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      28,
+      56,
+      921135
+    ]
+  },
+  {
+    "duration": 8.776637,
+    "colour": "red",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 21,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      29,
+      40,
+      570676
+    ]
+  },
+  {
+    "duration": 4.435857,
+    "colour": "amber",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 22,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      30,
+      36,
+      700340
+    ]
+  },
+  {
+    "duration": 8.666458,
+    "colour": "red",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 23,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      31,
+      40,
+      241310
+    ]
+  },
+  {
+    "duration": 8.459907,
+    "colour": "green",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 24,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      32,
+      10,
+      329216
+    ]
+  },
+  {
+    "duration": 8.542646,
+    "colour": "green",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 25,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      36,
+      38,
+      909213
+    ]
+  },
+  {
+    "duration": 8.298769,
+    "colour": "green",
+    "predicted": "none",
+    "revert_if_wrong": "off",
+    "index": 26,
+    "time": [
+      2023,
+      11,
+      21,
+      16,
+      39,
+      41,
+      849419
+    ]
+  }
+]
